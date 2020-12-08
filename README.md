@@ -6,6 +6,6 @@ COVID-19 had become the new norm since the pandemic. While the number ofcases ar
 
 # Classifier Model Evaluation:
 
-#Classifier Models | Vannila ResNet18 | Vannila ResNet34  | Modified ResNet18  | Inverted BottleNeck ResNet  | VGG-16 
+Classifier Models | Vannila ResNet18 | Vannila ResNet34  | Modified ResNet18  | Inverted BottleNeck ResNet  | VGG-16 
 --- | --- | --- | --- |--- |--- |
-#Accuracies | 77.78% | 88.89% | 74.07%| 74.00% | 75.00% 
+Accuracies | 77.78% | 88.89% | 74.07%| 74.00% | 75.00% 
